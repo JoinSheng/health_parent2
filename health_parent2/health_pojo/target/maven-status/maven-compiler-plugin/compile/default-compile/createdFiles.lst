@@ -1,0 +1,5 @@
+com\health\response\QueryPageBean.class
+com\health\pojo\CheckItem.class
+com\health\response\Result.class
+com\health\response\constant\MessageConstant.class
+com\health\response\PageResult.class
